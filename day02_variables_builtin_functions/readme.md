@@ -2,6 +2,7 @@
 
 This folder contains Python exercises focused on variable declaration, basic data type operations, and mathematical calculations. These exercises are part of the 30 Days of Python challenge, designed to help beginners build a strong foundation in Python.
 
+
 ## Exercise Overview
 
 ### Exercises: Level 1
